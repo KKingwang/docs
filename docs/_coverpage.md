@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 
 <!-- ![logo](/_media/cat.png) -->
-<img src="/_media/cat.png" alt="示例图片" width="300" height="200">
+<img src="./_media/cat.png" alt="示例图片" width="300" height="200">
 
 # **空白的窝** <small>@薯条🍟&薯饼🫓</small>
 
