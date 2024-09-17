@@ -3,8 +3,8 @@
 
 
 - Markdown
-    - [docsify插件使用方法](md/Markdown/docsify插件使用方法.md)
     - [markdown-basics](md/Markdown/markdown-basics.md)
+    - [docsify插件使用方法](md/Markdown/docsify插件使用方法.md)
 
 
 - 乱七八糟
@@ -26,5 +26,5 @@
         - [PY小技巧](md/编程开发/Python/PY小技巧.md)
     - Windows
         - [Windows 10 下如何彻底关闭 Hyper-V 服务](md/编程开发/win/Windows%2010%20下如何彻底关闭%20Hyper-V%20服务.md)
-    - 安卓
+    - Android
         - [adb命令](md/编程开发/安卓/adb命令.md)
