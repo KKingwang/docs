@@ -1,4 +1,6 @@
-1.使用`x86`时需要设置`arch`，请注意`arm`版本的`Homebrew`不需要额外设置，终端打开后就是了。
+## 1.切换 x86 或 arm 版本
+
+使用`x86`时需要设置`arch`，请注意`arm`版本的`Homebrew`不需要额外设置，终端打开后就是了。
 
 想进入`x86`模式，请执行：
 
@@ -10,7 +12,7 @@ arch -x86_64 zsh
 which brew
 ```
 
-2.信息查询
+## 2.信息查询
 
 ```bash
 # 查看 Homebrew 版本
@@ -35,27 +37,27 @@ which brew
 ➜  ~ brew deps --installed --tree
 ```
 
-3.查找软件包
+## 3.查找软件包
 
 ```bash
 ➜  ~ brew search git
 ➜  ~ brew search /^git$/
 ```
 
-4.安装卸载安装包
+## 4.安装卸载安装包
 
 ```bash
 ➜  ~ brew install 包名
 ➜  ~ brew uninstall 包名
 ```
 
-5.更新自身
+## 5.更新自身
 
 ```bash
 ➜  ~ brew update
 ```
 
-6.更新包
+## 6.更新包
 
 ```bash
 # 查看哪些包有新版本可更新
@@ -68,7 +70,7 @@ which brew
 ➜  ~ brew upgrade 包名
 ```
 
-7.清理旧的升级包
+## 7.清理旧的升级包
 
 ⚠️ 注意：如果一个包当前有可更新的版本没有更新，执行清理时候只会提示一个警告，而不会执行清理操作。需要先升级到最新版本，值执行清理。
 
@@ -83,7 +85,7 @@ which brew
 ➜  ~ brew cleanup 包名
 ```
 
-8.锁定不想更新的包
+## 8.锁定不想更新的包
 
 ```bash
 # 锁定
@@ -93,7 +95,7 @@ which brew
 ➜  ~ brew unpin 包名
 ```
 
-9.关联包
+## 9.关联包
 
 ```bash
 # 清理无效的关联，且清理与之相关的位于/Applications和~/Applications中的无用App链接

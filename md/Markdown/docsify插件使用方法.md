@@ -3,11 +3,11 @@ docsify-terminal-block 🖥️
 
 这是一个 docsify 插件，用于在文档中添加美观的终端块，同时支持“复制到剪贴板”功能。
 
-截图：
+截图
 -----
 [![Example](https://camo.githubusercontent.com/8ec771e1fc38c786ff5bbfcb50be2884b4081dc1255dd57d26440a873f685e05/68747470733a2f2f692e696d6775722e636f6d2f495a644f744c682e706e67)](https://camo.githubusercontent.com/8ec771e1fc38c786ff5bbfcb50be2884b4081dc1255dd57d26440a873f685e05/68747470733a2f2f692e696d6775722e636f6d2f495a644f744c682e706e67)
 
-用法：
+用法
 -----
 
 在 Markdown 文件中添加 terminal 标签即可创建终端块。
@@ -36,7 +36,7 @@ docsify-terminal-block 🖥️
     ```
 ```
 
-实例：
+实例
 -----------
 ```
     ```terminal
