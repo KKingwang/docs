@@ -21,7 +21,6 @@
     - Python
         - [conda使用技巧](md/编程开发/Python/conda使用技巧.md)
         - [conda快查](md/编程开发/Python/conda快查.md)
-        - [mac 折腾pyqt6](md/编程开发/Python/mac%20折腾pyqt6.md)
         - [Python神奇的库](md/编程开发/Python/Python神奇的库.md)
         - [Python虚拟机](md/编程开发/Python/Python虚拟机.md)
         - [PY小技巧](md/编程开发/Python/PY小技巧.md)
