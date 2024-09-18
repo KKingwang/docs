@@ -4,6 +4,7 @@
     * [docsify插件使用方法](./md/Markdown/docsify插件使用方法.md)
     * [markdown-basics](./md/Markdown/markdown-basics.md)
 * 乱七八糟
+    * [ macOS设置长按输入](./md/乱七八糟/ macOS设置长按输入.md)
     * [Homebrew使用](./md/乱七八糟/Homebrew使用.md)
     * [openwrt编译](./md/乱七八糟/openwrt编译.md)
 * 编程开发
