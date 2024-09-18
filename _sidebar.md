@@ -20,5 +20,5 @@
         * [Python虚拟机](./md/编程开发/Python/Python虚拟机.md)
         * [conda使用技巧](./md/编程开发/Python/conda使用技巧.md)
         * [conda快查](./md/编程开发/Python/conda快查.md)
-    * win
-        * [Windows10下如何彻底关闭Hyper-V服务](./md/编程开发/win/Windows10下如何彻底关闭Hyper-V服务.md)
+    * Windows
+        * [Windows10下如何彻底关闭Hyper-V服务](./md/编程开发/Windows/Windows10下如何彻底关闭Hyper-V服务.md)
