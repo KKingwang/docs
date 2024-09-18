@@ -14,4 +14,5 @@
 
 [GitHub](https://github.com/KKingwang)
 [Bilibili](https://space.bilibili.com/343649302)
+[备忘](./md/备忘 ':class=custom-button')
 [Get Started](#你好 ':class=custom-button')
