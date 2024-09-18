@@ -78,15 +78,5 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-wikilink@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-terminal-block@1.0.3"></script>
   <script src="./_media/js/docsify-dark-switcher.js"></script>
-  <!-- 清除缓存 -->
-  <script>
-    if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./_media/js/sw.js').then(function(registration) {
-        console.log('Service Worker registered with scope:', registration.scope);
-      }).catch(function(error) {
-        console.log('Service Worker registration failed:', error);
-      });
-    }
-  </script>
 </body>
 </html>
