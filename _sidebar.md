@@ -7,6 +7,7 @@
     * [Homebrew使用](./md/乱七八糟/Homebrew使用.md)
     * [macOS设置长按输入](./md/乱七八糟/macOS设置长按输入.md)
     * [openwrt编译](./md/乱七八糟/openwrt编译.md)
+    * [screego-audio编译](./md/乱七八糟/screego-audio编译.md)
 * 编程开发
     * Android
         * [adb命令](./md/编程开发/Android/adb命令.md)
@@ -16,10 +17,10 @@
         * [Debian](./md/编程开发/Linux/Debian.md)
         * [Linux一些指令](./md/编程开发/Linux/Linux一些指令.md)
     * Python
-        * [PY小技巧](./md/编程开发/Python/PY小技巧.md)
-        * [Python神奇的库](./md/编程开发/Python/Python神奇的库.md)
-        * [Python虚拟机](./md/编程开发/Python/Python虚拟机.md)
         * [conda使用技巧](./md/编程开发/Python/conda使用技巧.md)
         * [conda快查](./md/编程开发/Python/conda快查.md)
+        * [Python神奇的库](./md/编程开发/Python/Python神奇的库.md)
+        * [Python虚拟机](./md/编程开发/Python/Python虚拟机.md)
+        * [PY小技巧](./md/编程开发/Python/PY小技巧.md)
     * Windows
         * [Windows10下如何彻底关闭Hyper-V服务](./md/编程开发/Windows/Windows10下如何彻底关闭Hyper-V服务.md)
